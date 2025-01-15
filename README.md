@@ -1,4 +1,6 @@
-# [Frontend Repository: Secure E-Bank Frontend](https://github.com/HAJJIRI-OUSSAMA/Secure_EBANK_Frontend)
+# E-Bank Backend API
+This is the backend API for an E-Bank application, built using Spring Boot. The API provides functionalities for managing customers, bank accounts, and account operations such as debit, credit, and transfer. It also includes authentication and authorization using JWT (JSON Web Tokens) and Spring Security.
+
 
 ## Frontend Repository
 
@@ -6,8 +8,6 @@ The frontend for this project is hosted in a separate repository. You can find i
 
 [E-Bank Frontend Repository](https://github.com/HAJJIRI-OUSSAMA/Secure_EBANK_Frontend)
 
-# E-Bank Backend API
-This is the backend API for an E-Bank application, built using Spring Boot. The API provides functionalities for managing customers, bank accounts, and account operations such as debit, credit, and transfer. It also includes authentication and authorization using JWT (JSON Web Tokens) and Spring Security.
 
 ## Features
 - **Customer Management**: Create, update, delete, and retrieve customer information.
